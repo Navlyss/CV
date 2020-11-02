@@ -1,0 +1,53 @@
+.page{
+	width: 780px;
+	margin: auto;
+	font-size: 16px;
+	font-family: 'Source auto' , Roboto
+}
+
+.infophoto{
+	height: 220px;
+}
+
+.info{
+	float: left;
+}
+.photo{
+	float: right;
+}
+strong{
+	font-size: 26px;
+}
+.section{
+	margin-bottom: 70px;
+	text-align: justify;
+}
+
+h2{
+	font-size: 28px;
+	color: #3388BB;
+	text-transform: uppercase;
+	border-bottom: 3px solid #3388BB;
+}
+.sec-gauche{
+	float: left;
+}
+
+.sec-droite{
+	margin-left: 130px;
+}
+
+.titre{
+	font-size: 20px;
+	font-weight: bold;
+}
+
+#format-gauche p{
+	margin-bottom: 37px;
+}
+
+.sec-droite{
+	margin-left: 150px;
+	margin-top: 37px;
+}
+
